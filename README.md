@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya-b03
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
